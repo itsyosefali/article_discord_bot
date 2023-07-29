@@ -82,4 +82,4 @@ async def trivia(ctx):
 @bot.event
 async def on_ready():
     print(f'Logged in as {bot.user.name}')
-bot.run('MTA0MzI0MDEyODM5NjY2NTAwMw.GLTyTr.RSbYSLrO2NDNunuszPVmkro7S3E_RsHjUhdPKs')
+bot.run('TOKEN')
